@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Grigorio-Makario/npm/issues"
   },
-  "homepage": "https://github.com/Grigorio-Makario/npm#readme"
+  "homepage": "https://github.com/Grigorio-Makario/npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
 }
